@@ -35,7 +35,7 @@ export class Navbar extends Component {
                                 <Link className="nav-link" to="/technology">Technology</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/us">USA</Link>
+                                <Link className="nav-link" to="/us">United States</Link>
                             </li>
                         </ul>
                     </div>
