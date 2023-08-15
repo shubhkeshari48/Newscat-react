@@ -26,7 +26,7 @@ export class Navbar extends Component {
                                 <Link className="nav-link" to="/">General</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/health">Health</Link>
+                                <Link className="nav-link" to="/health">Health & care</Link>
                             </li>
                             <li className="nav-item">
                                 <Link className="nav-link" to="/sports">Sports</Link>
